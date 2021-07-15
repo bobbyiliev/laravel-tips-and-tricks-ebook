@@ -27,7 +27,7 @@ To download a copy of the ebook use one of the following links:
 ## 📘 Chapters
 
 * **About the book**
-* **TODO**
+* **[How to Install Laravel on DigitalOcean with 1-Click](https://devdojo.com/bobbyiliev/how-to-install-laravel-on-digitalocean-with-1-click)**
 * **Conclusion**
 
 ## 🌟 Sponsors
