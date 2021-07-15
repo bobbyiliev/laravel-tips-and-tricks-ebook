@@ -28,6 +28,7 @@ To download a copy of the ebook use one of the following links:
 
 * **About the book**
 * **[How to Install Laravel on DigitalOcean with 1-Click](https://devdojo.com/bobbyiliev/how-to-install-laravel-on-digitalocean-with-1-click)**
+* **[How to get a free domain name for your Laravel project](https://devdojo.com/bobbyiliev/how-to-get-a-free-domain-name-for-your-laravel-project)**
 * **Conclusion**
 
 ## 🌟 Sponsors
