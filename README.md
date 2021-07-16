@@ -31,6 +31,10 @@ To download a copy of the ebook use one of the following links:
 * **[How to get a free domain name for your Laravel project](https://devdojo.com/bobbyiliev/how-to-get-a-free-domain-name-for-your-laravel-project)**
 * **[8 Awesome VS Code Extensions for Laravel Developers](https://devdojo.com/bobbyiliev/8-awesome-vs-code-extensions-for-laravel-developers)**
 * **[What is Laravel Jetstream and how to get started](https://devdojo.com/bobbyiliev/what-is-laravel-jetstream-and-how-to-get-started)**
+* **TODO**
+* **TODO**
+* **TODO**
+* **[Scaling Laravel App with Multiple Databases](https://devdojo.com/bobbyiliev/scaling-laravel-app-with-multiple-databases)**
 * **Conclusion**
 
 ## 🌟 Sponsors
