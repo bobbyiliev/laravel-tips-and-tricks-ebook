@@ -35,7 +35,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to speed up your Laravel application with PHP OPcache](https://devdojo.com/bobbyiliev/how-to-speed-up-your-laravel-application-with-php-opcache)**
 * **[What is Laravel Sail and how to get started](https://devdojo.com/bobbyiliev/what-is-laravel-sail-and-how-to-get-started)**
 * **[How to add simple search to your Laravel blog/website](https://devdojo.com/bobbyiliev/how-to-add-simple-search-to-your-laravel-blogwebsite)**
-* **TODO**
+* **[How to Create Custom Laravel Maintenance Page](https://devdojo.com/bobbyiliev/how-to-create-custom-laravel-maintenance-page)**
 * **TODO**
 * **TODO**
 * **[Scaling Laravel App with Multiple Databases](https://devdojo.com/bobbyiliev/scaling-laravel-app-with-multiple-databases)**
