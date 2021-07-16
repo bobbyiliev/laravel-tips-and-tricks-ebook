@@ -4,7 +4,7 @@ return [
     /**
      * The book title.
      */
-    'title' => 'Introduction to SQL',
+    'title' => 'Laravel Tips and Tricks',
 
     /**
      * The author name.
@@ -29,6 +29,6 @@ return [
     /**
      * A notice printed at the final page of a generated sample.
      */
-    'sample_notice' => 'This is a sample from "Introduction to SQL" by Bobby Iliev. <br>
+    'sample_notice' => 'This is a sample from "Laravel Tips and Tricks" by Bobby Iliev. <br>
                         For more information, <a href="https://devdojo.com/">Click here</a>.',
 ];

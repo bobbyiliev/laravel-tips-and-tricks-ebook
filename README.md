@@ -1,4 +1,4 @@
-<p align="center"><img src="https://imgur.com/73KwDAp.png" height="450" width="auto"></p>
+<p align="center"><img src="https://imgur.com/0YRkNDh.png" height="450" width="auto"></p>
 
 <div align="center">
     <p>
@@ -118,6 +118,8 @@ Ibis is a PHP tool that helps you write eBooks in markdown.
 The cover for this ebook was created with [Canva.com](https://www.canva.com/join/determined-cork-learn).
 
 If you ever need to create a graphic, poster, invitation, logo, presentation – or anything that looks good — give Canva a go.
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 ## 🔗 Links
 
