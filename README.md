@@ -32,6 +32,7 @@ To download a copy of the ebook use one of the following links:
 * **[8 Awesome VS Code Extensions for Laravel Developers](https://devdojo.com/bobbyiliev/8-awesome-vs-code-extensions-for-laravel-developers)**
 * **[What is Laravel Jetstream and how to get started](https://devdojo.com/bobbyiliev/what-is-laravel-jetstream-and-how-to-get-started)**
 * **[How to check Laravel Blade View Syntax using artisan](https://devdojo.com/bobbyiliev/how-to-check-laravel-blade-view-syntax-using-artisan)**
+* **[How to speed up your Laravel application with PHP OPcache](https://devdojo.com/bobbyiliev/how-to-speed-up-your-laravel-application-with-php-opcache)**
 * **TODO**
 * **TODO**
 * **TODO**
