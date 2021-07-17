@@ -37,7 +37,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to add simple search to your Laravel blog/website](https://devdojo.com/bobbyiliev/how-to-add-simple-search-to-your-laravel-blogwebsite)**
 * **[How to Create Custom Laravel Maintenance Page](https://devdojo.com/bobbyiliev/how-to-create-custom-laravel-maintenance-page)**
 * **[What is Laravel Blade UI Kit and how to get started](https://devdojo.com/bobbyiliev/what-is-laravel-blade-ui-kit-and-how-to-get-started)**
-* **TODO**
+* **[How to Add a Simple Infinite Scroll Pagination to Laravel?](https://devdojo.com/bobbyiliev/how-to-add-a-simple-infinite-scroll-pagination-to-laravel)**
 * **TODO**
 * **TODO**
 * **[Scaling Laravel App with Multiple Databases](https://devdojo.com/bobbyiliev/scaling-laravel-app-with-multiple-databases)**
