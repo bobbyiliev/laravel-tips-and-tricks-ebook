@@ -39,6 +39,7 @@ To download a copy of the ebook use one of the following links:
 * **[What is Laravel Blade UI Kit and how to get started](https://devdojo.com/bobbyiliev/what-is-laravel-blade-ui-kit-and-how-to-get-started)**
 * **[How to Add a Simple Infinite Scroll Pagination to Laravel?](https://devdojo.com/bobbyiliev/how-to-add-a-simple-infinite-scroll-pagination-to-laravel)**
 * **[How to add a simple RSS feed to Laravel without using a package](https://devdojo.com/bobbyiliev/how-to-add-a-simple-rss-feed-to-laravel-without-using-package)**
+* **[What is Laravel Zero and how to get started](https://devdojo.com/bobbyiliev/what-is-laravel-zero-and-how-to-get-started)**
 * **TODO**
 * **TODO**
 * **TODO**
