@@ -40,6 +40,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to Add a Simple Infinite Scroll Pagination to Laravel?](https://devdojo.com/bobbyiliev/how-to-add-a-simple-infinite-scroll-pagination-to-laravel)**
 * **[How to add a simple RSS feed to Laravel without using a package](https://devdojo.com/bobbyiliev/how-to-add-a-simple-rss-feed-to-laravel-without-using-package)**
 * **[What is Laravel Zero and how to get started](https://devdojo.com/bobbyiliev/what-is-laravel-zero-and-how-to-get-started)**
+* **[How to build a blog with Laravel and Wink](https://devdojo.com/bobbyiliev/how-to-build-a-blog-with-laravel-and-wink)**
 * **TODO**
 * **TODO**
 * **TODO**
