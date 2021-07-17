@@ -38,6 +38,8 @@ To download a copy of the ebook use one of the following links:
 * **[How to Create Custom Laravel Maintenance Page](https://devdojo.com/bobbyiliev/how-to-create-custom-laravel-maintenance-page)**
 * **[What is Laravel Blade UI Kit and how to get started](https://devdojo.com/bobbyiliev/what-is-laravel-blade-ui-kit-and-how-to-get-started)**
 * **[How to Add a Simple Infinite Scroll Pagination to Laravel?](https://devdojo.com/bobbyiliev/how-to-add-a-simple-infinite-scroll-pagination-to-laravel)**
+* **[How to add a simple RSS feed to Laravel without using a package](https://devdojo.com/bobbyiliev/how-to-add-a-simple-rss-feed-to-laravel-without-using-package)**
+* **TODO**
 * **TODO**
 * **TODO**
 * **[Scaling Laravel App with Multiple Databases](https://devdojo.com/bobbyiliev/scaling-laravel-app-with-multiple-databases)**
