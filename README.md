@@ -47,6 +47,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to consume an external API with Laravel and Guzzle](https://devdojo.com/bobbyiliev/how-to-consume-an-external-api-with-laravel-and-guzzle)**
 * **[How to send Discord notifications with Laravel](https://devdojo.com/bobbyiliev/how-to-send-discord-notifications-with-laravel)**
 * **[How to encrypt and decrypt a string in Laravel](https://devdojo.com/bobbyiliev/how-to-encrypt-and-decrypt-a-string-in-laravel)**
+* **[How to remove a package from Laravel using composer](https://devdojo.com/bobbyiliev/how-to-remove-a-package-from-laravel-using-composer)**
 * **TODO**
 * **TODO**
 * **TODO**
