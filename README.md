@@ -43,6 +43,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to build a blog with Laravel and Wink](https://devdojo.com/bobbyiliev/how-to-build-a-blog-with-laravel-and-wink)**
 * **[How to copy or move records from one table to another in Laravel](https://devdojo.com/bobbyiliev/how-to-copy-or-move-records-from-one-table-to-another-in-laravel)**
 * **[How to generate title slugs in Laravel](https://devdojo.com/bobbyiliev/how-to-generate-title-slugs-in-laravel)**
+* **[What is Laravel Enlightn and how to use it](https://devdojo.com/bobbyiliev/what-is-laravel-enlightn-and-how-to-use-it)**
 * **TODO**
 * **TODO**
 * **TODO**
