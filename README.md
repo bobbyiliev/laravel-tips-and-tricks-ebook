@@ -44,6 +44,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to copy or move records from one table to another in Laravel](https://devdojo.com/bobbyiliev/how-to-copy-or-move-records-from-one-table-to-another-in-laravel)**
 * **[How to generate title slugs in Laravel](https://devdojo.com/bobbyiliev/how-to-generate-title-slugs-in-laravel)**
 * **[What is Laravel Enlightn and how to use it](https://devdojo.com/bobbyiliev/what-is-laravel-enlightn-and-how-to-use-it)**
+* **[How to consume an external API with Laravel and Guzzle](https://devdojo.com/bobbyiliev/how-to-consume-an-external-api-with-laravel-and-guzzle)**
 * **TODO**
 * **TODO**
 * **TODO**
