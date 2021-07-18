@@ -48,6 +48,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to send Discord notifications with Laravel](https://devdojo.com/bobbyiliev/how-to-send-discord-notifications-with-laravel)**
 * **[How to encrypt and decrypt a string in Laravel](https://devdojo.com/bobbyiliev/how-to-encrypt-and-decrypt-a-string-in-laravel)**
 * **[How to remove a package from Laravel using composer](https://devdojo.com/bobbyiliev/how-to-remove-a-package-from-laravel-using-composer)**
+* **[What is Laravel Breeze and how to get started](https://devdojo.com/bobbyiliev/what-is-laravel-breeze-and-how-to-get-started)**
 * **TODO**
 * **TODO**
 * **TODO**
