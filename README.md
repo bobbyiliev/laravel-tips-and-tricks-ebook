@@ -50,6 +50,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to remove a package from Laravel using composer](https://devdojo.com/bobbyiliev/how-to-remove-a-package-from-laravel-using-composer)**
 * **[What is Laravel Breeze and how to get started](https://devdojo.com/bobbyiliev/what-is-laravel-breeze-and-how-to-get-started)**
 * **[What are signed routes in Laravel and how to use them](https://devdojo.com/bobbyiliev/what-are-signed-routes-in-laravel-and-how-to-use-them)**
+* **[How to Quickly Change the Password for a User in Laravel](https://devdojo.com/bobbyiliev/how-to-quickly-change-the-password-for-a-user-in-laravel)**
 * **TODO**
 * **TODO**
 * **TODO**
