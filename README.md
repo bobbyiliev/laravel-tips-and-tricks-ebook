@@ -51,6 +51,7 @@ To download a copy of the ebook use one of the following links:
 * **[What is Laravel Breeze and how to get started](https://devdojo.com/bobbyiliev/what-is-laravel-breeze-and-how-to-get-started)**
 * **[What are signed routes in Laravel and how to use them](https://devdojo.com/bobbyiliev/what-are-signed-routes-in-laravel-and-how-to-use-them)**
 * **[How to Quickly Change the Password for a User in Laravel](https://devdojo.com/bobbyiliev/how-to-quickly-change-the-password-for-a-user-in-laravel)**
+* **[How to convert markdown to HTML in Laravel and Voyager](https://devdojo.com/bobbyiliev/how-to-convert-markdown-to-html-in-laravel-and-voyager)**
 * **TODO**
 * **TODO**
 * **TODO**
