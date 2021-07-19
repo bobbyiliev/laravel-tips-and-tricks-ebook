@@ -53,6 +53,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to Quickly Change the Password for a User in Laravel](https://devdojo.com/bobbyiliev/how-to-quickly-change-the-password-for-a-user-in-laravel)**
 * **[How to convert markdown to HTML in Laravel and Voyager](https://devdojo.com/bobbyiliev/how-to-convert-markdown-to-html-in-laravel-and-voyager)**
 * **[How to Create Response Macros in Laravel](https://devdojo.com/bobbyiliev/how-to-create-response-macros-in-laravel)**
+* **[How to Get the Base URL in Laravel](https://devdojo.com/bobbyiliev/how-to-get-the-base-url-in-laravel)**
 * **TODO**
 * **TODO**
 * **TODO**
