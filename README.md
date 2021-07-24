@@ -57,6 +57,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to limit the length of a string in Laravel](https://devdojo.com/bobbyiliev/how-to-limit-the-length-of-a-string-in-laravel)**
 * **[How to check 'if not null' with Laravel Eloquent](https://devdojo.com/bobbyiliev/how-to-check-if-not-null-with-laravel-eloquent)**
 * **[How to get the current date and time in Laravel](https://devdojo.com/bobbyiliev/how-to-get-the-current-date-and-time-in-laravel)**
+* **[How to Get Current Route Name in Laravel](https://devdojo.com/bobbyiliev/how-to-get-current-route-name-in-laravel)**
 * **TODO**
 * **TODO**
 * **TODO**
