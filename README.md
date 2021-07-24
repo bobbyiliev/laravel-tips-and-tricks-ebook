@@ -59,6 +59,8 @@ To download a copy of the ebook use one of the following links:
 * **[How to get the current date and time in Laravel](https://devdojo.com/bobbyiliev/how-to-get-the-current-date-and-time-in-laravel)**
 * **[How to Get Current Route Name in Laravel](https://devdojo.com/bobbyiliev/how-to-get-current-route-name-in-laravel)**
 * **[How to Count and Detect Empty Laravel Eloquent Collections](https://devdojo.com/bobbyiliev/how-to-count-and-detect-empty-laravel-eloquent-collections)**
+* **[How to use Forelse loop in Laravel Blade](https://devdojo.com/bobbyiliev/how-to-use-forelse-loop-in-laravel-blade)**
+* **TODO**
 * **TODO**
 * **TODO**
 * **[Scaling Laravel App with Multiple Databases](https://devdojo.com/bobbyiliev/scaling-laravel-app-with-multiple-databases)**
