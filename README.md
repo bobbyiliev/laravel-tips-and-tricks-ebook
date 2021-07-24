@@ -55,6 +55,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to Create Response Macros in Laravel](https://devdojo.com/bobbyiliev/how-to-create-response-macros-in-laravel)**
 * **[How to Get the Base URL in Laravel](https://devdojo.com/bobbyiliev/how-to-get-the-base-url-in-laravel)**
 * **[How to limit the length of a string in Laravel](https://devdojo.com/bobbyiliev/how-to-limit-the-length-of-a-string-in-laravel)**
+* **[How to check 'if not null' with Laravel Eloquent](https://devdojo.com/bobbyiliev/how-to-check-if-not-null-with-laravel-eloquent)**
 * **TODO**
 * **TODO**
 * **TODO**
