@@ -58,7 +58,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to check 'if not null' with Laravel Eloquent](https://devdojo.com/bobbyiliev/how-to-check-if-not-null-with-laravel-eloquent)**
 * **[How to get the current date and time in Laravel](https://devdojo.com/bobbyiliev/how-to-get-the-current-date-and-time-in-laravel)**
 * **[How to Get Current Route Name in Laravel](https://devdojo.com/bobbyiliev/how-to-get-current-route-name-in-laravel)**
-* **TODO**
+* **[How to Count and Detect Empty Laravel Eloquent Collections](https://devdojo.com/bobbyiliev/how-to-count-and-detect-empty-laravel-eloquent-collections)**
 * **TODO**
 * **TODO**
 * **[Scaling Laravel App with Multiple Databases](https://devdojo.com/bobbyiliev/scaling-laravel-app-with-multiple-databases)**
