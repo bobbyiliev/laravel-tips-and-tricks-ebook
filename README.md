@@ -14,7 +14,7 @@
 
 This is an open-source `Laravel Tips and Tricks eBook` that is a collection of my own notes that I've put together for myself throughout the years. You would likely than not need many of those tips at some point in your career as a Laravel Developer.
 
-The guide is suitable for anyone working as a Laravel developer and would love to learn some random Laravel tips and tricks.
+The guide is suitable for anyone working as a Laravel developer and would love to learn some random Laravel tips and tricks. You can read the chapters in this book in a random order as they are completely separate tips or tricks.
 
 ## 🚀 Download
 
@@ -75,7 +75,9 @@ To download a copy of the ebook use one of the following links:
 * **[How to Get the Last Inserted Id Using Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-get-the-last-inserted-id-using-laravel-eloquent)**
 * **[How to Order the Results of all() in Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-order-the-results-of-all-in-laravel-eloquent)**
 * **[How to fix Laravel Unknown Column 'updated_at'?](https://devdojo.com/bobbyiliev/how-to-fix-laravel-unknown-column-updated-at)**
-TODO
+* **[How to Define Custom ENV Variables in Laravel?](https://devdojo.com/bobbyiliev/how-to-define-custom-env-variables-in-laravel)**
+
+
 * **[Scaling Laravel App with Multiple Databases](https://devdojo.com/bobbyiliev/scaling-laravel-app-with-multiple-databases)**
 * **Conclusion**
 
