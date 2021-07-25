@@ -65,6 +65,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to Add Multiple Where Clauses Using Laravel Eloquent](https://devdojo.com/bobbyiliev/how-to-add-multiple-where-clauses-using-laravel-eloquent)**
 * **[How to Add a New Column to an Existing Table in a Laravel Migration](https://devdojo.com/bobbyiliev/how-to-add-a-new-column-to-an-existing-table-in-a-laravel-migration)**
 * **[How to Rollback Database Migrations in Laravel](https://devdojo.com/bobbyiliev/how-to-rollback-database-migrations-in-laravel)**
+* **[How to Remove a Migration in Laravel](https://devdojo.com/bobbyiliev/how-to-remove-a-migration-in-laravel)**
 * **TODO**
 * **TODO**
 * **TODO**
