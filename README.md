@@ -72,6 +72,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to limit the result with Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-limit-the-result-with-laravel-eloquent)**
 * **[How to Select Specific Columns in Laravel Eloquent](https://devdojo.com/bobbyiliev/how-to-select-specific-columns-in-laravel-eloquent)**
 * **[How to get the Laravel Query Builder to Output the Raw SQL Query?](https://devdojo.com/bobbyiliev/how-to-get-the-laravel-query-builder-to-output-the-raw-sql-query)**
+* **[How to Get the Last Inserted Id Using Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-get-the-last-inserted-id-using-laravel-eloquent)**
 TODO
 * **[Scaling Laravel App with Multiple Databases](https://devdojo.com/bobbyiliev/scaling-laravel-app-with-multiple-databases)**
 * **Conclusion**
