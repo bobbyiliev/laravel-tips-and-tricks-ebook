@@ -1,6 +1,6 @@
 # About the book
 
-* **This version was published on July 15 2021**
+* **This version was published on July 25 2021**
 
 This is an open-source `Laravel Tips and Tricks eBook` that is a collection of my own notes that I've put together for myself throughout the years. You would likely than not need many of those tips at some point in your career as a Laravel Developer.
 
