@@ -69,7 +69,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to create a contact form with Laravel Livewire](https://devdojo.com/bobbyiliev/how-to-create-contact-form-with-laravel-livewire)**
 * **[How To Display HTML Tags In Blade With Laravel](https://devdojo.com/bobbyiliev/how-to-display-html-tags-in-blade-with-laravel-8)**
 * **[How to Set a Variable in Laravel Blade Template](https://devdojo.com/bobbyiliev/how-to-set-a-variable-in-laravel-blade-template)**
-* **TODO**
+* **[How to limit the result with Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-limit-the-result-with-laravel-eloquent)**
 * **TODO**
 * **TODO**
 * **[Scaling Laravel App with Multiple Databases](https://devdojo.com/bobbyiliev/scaling-laravel-app-with-multiple-databases)**
