@@ -62,6 +62,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to use Forelse loop in Laravel Blade](https://devdojo.com/bobbyiliev/how-to-use-forelse-loop-in-laravel-blade)**
 * **[How to Delete All Entries in a Table Using Laravel Eloquent](https://devdojo.com/bobbyiliev/how-to-delete-all-entries-in-a-table-using-laravel-eloquent)**
 * **[How to check if a record exists with Laravel Eloquent](https://devdojo.com/bobbyiliev/how-to-check-if-a-record-exists-with-laravel-eloquent)**
+* **[How to Add Multiple Where Clauses Using Laravel Eloquent](https://devdojo.com/bobbyiliev/how-to-add-multiple-where-clauses-using-laravel-eloquent)**
 * **TODO**
 * **TODO**
 * **TODO**
