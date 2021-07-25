@@ -76,7 +76,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to Order the Results of all() in Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-order-the-results-of-all-in-laravel-eloquent)**
 * **[How to fix Laravel Unknown Column 'updated_at'?](https://devdojo.com/bobbyiliev/how-to-fix-laravel-unknown-column-updated-at)**
 * **[How to Define Custom ENV Variables in Laravel?](https://devdojo.com/bobbyiliev/how-to-define-custom-env-variables-in-laravel)**
-
+* **[How to fix 'Please provide a valid cache path' error in Laravel?](https://devdojo.com/bobbyiliev/how-to-fix-please-provide-a-valid-cache-path-error-in-laravel)**
 
 * **[Scaling Laravel App with Multiple Databases](https://devdojo.com/bobbyiliev/scaling-laravel-app-with-multiple-databases)**
 * **Conclusion**
