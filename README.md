@@ -61,6 +61,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to Count and Detect Empty Laravel Eloquent Collections](https://devdojo.com/bobbyiliev/how-to-count-and-detect-empty-laravel-eloquent-collections)**
 * **[How to use Forelse loop in Laravel Blade](https://devdojo.com/bobbyiliev/how-to-use-forelse-loop-in-laravel-blade)**
 * **[How to Delete All Entries in a Table Using Laravel Eloquent](https://devdojo.com/bobbyiliev/how-to-delete-all-entries-in-a-table-using-laravel-eloquent)**
+* **[How to check if a record exists with Laravel Eloquent](https://devdojo.com/bobbyiliev/how-to-check-if-a-record-exists-with-laravel-eloquent)**
 * **TODO**
 * **TODO**
 * **TODO**
