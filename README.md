@@ -71,7 +71,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to Set a Variable in Laravel Blade Template](https://devdojo.com/bobbyiliev/how-to-set-a-variable-in-laravel-blade-template)**
 * **[How to limit the result with Laravel Eloquent?](https://devdojo.com/bobbyiliev/how-to-limit-the-result-with-laravel-eloquent)**
 * **[How to Select Specific Columns in Laravel Eloquent](https://devdojo.com/bobbyiliev/how-to-select-specific-columns-in-laravel-eloquent)**
-* **TODO**
+* **[How to get the Laravel Query Builder to Output the Raw SQL Query?](https://devdojo.com/bobbyiliev/how-to-get-the-laravel-query-builder-to-output-the-raw-sql-query)**
 TODO
 * **[Scaling Laravel App with Multiple Databases](https://devdojo.com/bobbyiliev/scaling-laravel-app-with-multiple-databases)**
 * **Conclusion**
