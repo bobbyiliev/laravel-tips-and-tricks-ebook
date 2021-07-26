@@ -20,9 +20,9 @@ The guide is suitable for anyone working as a Laravel developer and would love t
 
 To download a copy of the ebook use one of the following links:
 
-* [Dark mode](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook/raw/main/ebook/en/export/laravel-tips-and-tricks-ebook-dark.pdf)
+* [Dark mode](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook/raw/main/ebook/en/export/laravel-tips-and-tricks-dark.pdf)
 
-* [Light mode](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook/raw/main/ebook/en/export/laravel-tips-and-tricks-ebook-light.pdf)
+* [Light mode](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook/raw/main/ebook/en/export/laravel-tips-and-tricks-light.pdf)
 
 ## 📘 Chapters
 
@@ -113,8 +113,6 @@ For more information, please visit [https://www.devdojo.com](https://www.devdojo
 ## 🕸️ Web Page
 
 A web page showcasing the eBook:
-
-> Coming soon!
 
 [Laravel Tips and Tricks eBook](https://laravel.bobby.sh)
 
