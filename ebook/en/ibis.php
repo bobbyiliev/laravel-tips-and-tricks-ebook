@@ -23,7 +23,7 @@ return [
      * Page ranges to be used with the sample command.
      */
     'sample' => [
-        [1, 30]
+        [1, 70]
     ],
 
     /**
