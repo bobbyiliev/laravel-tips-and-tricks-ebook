@@ -2,7 +2,7 @@
 
 * **This version was published on July 25 2021**
 
-This is an open-source `Laravel Tips and Tricks eBook` that is a collection of my own notes that I've put together for myself throughout the years. You would likely than not need many of those tips at some point in your career as a Laravel Developer.
+This is an open-source `Laravel Tips and Tricks eBook` that is a collection of my own notes that I've put together for myself throughout the years. You would more likely than not need many of those tips at some point in your career as a Laravel Developer.
 
 The guide is suitable for anyone working as a Laravel developer and would love to learn some random Laravel tips and tricks. You can read the chapters in this book in a random order as they are completely separate tips or tricks.
 
