@@ -78,7 +78,7 @@ I personally like to use the command line all the time, but I have to admit that
 
 Some of the main features are:
 
-* Make files like Controllers, Migrations, etc. 
+* Make files like Controllers, Migrations, etc.
 * Run Your own Custom Commands
 * Manage your database
 * Clear the Caches
@@ -92,7 +92,7 @@ For more information, make sure to check the documentation here:
 
 ## 5. Laravel Extra Intellisense
 
-The [Laravel Extra Intellisense](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480.laravel-extra-intellisense) extension provides autocompletion for Larave in VSCode.
+The [Laravel Extra Intellisense](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480.laravel-extra-intellisense) extension provides autocompletion for Laravel in VSCode.
 
 ![Laravel autocomplition VScode extension](https://imgur.com/r1ET6Ya.gif)
 
@@ -114,7 +114,7 @@ For more information, make sure to check the documentation here:
 
 ## 6. Laravel goto Controller
 
-As your application grows, the number of your Controllers grows as well, so at some point, you might end up with hundreds of controllers. Hance finding your way around might get tedious. 
+As your application grows, the number of your Controllers grows as well, so at some point, you might end up with hundreds of controllers. Hance finding your way around might get tedious.
 
 This is the exact problem that the [Laravel-goto-controller](https://marketplace.visualstudio.com/items?itemName=stef-k.laravel-goto-controller) VScode extension solves.
 

@@ -83,9 +83,9 @@ opcache.enable_cli=1
 A quick rundown of the values:
 
 * `opcache.memory_consumption=256`: This is the size of the memory storage used by OPcache. You can increase the `opcache.memory_consumption=256` value in case that you have enough RAM on your server.
-* `opcache.interned_strings_buffer=64`: The amount of memory alocated to storing interned strings. The value is in megabytes. 
+* `opcache.interned_strings_buffer=64`: The amount of memory alocated to storing interned strings. The value is in megabytes.
 * `opcache.max_accelerated_files=32531`: The number of scripts in the OPcache hash table or, in other words, how many scripts can be cached in OPcache.
-* `opcache.validate_timestamps=0`: With this directive, we specify that OPcache should not be cleared automatically, which means that we would need to do this manually. 
+* `opcache.validate_timestamps=0`: With this directive, we specify that OPcache should not be cleared automatically, which means that we would need to do this manually.
 * `opcache.enable_cli=1`: This enables the OPcache for the CLI version of PHP, which could be beneficial if you are using any `artisan` commands.
 
 Once you make the change, you need to restart PHP FPM:
@@ -102,7 +102,7 @@ For more information on the OPcache configuration, make sure to go through the o
 
 In order to have some better management over the caching, we will use the [Laravel OPcache](https://github.com/appstract/laravel-opcache) package.
 
-To use the package, you would need to have Larave 7 or newer.
+To use the package, you would need to have Laravel 7 or newer.
 
 To install the package, just run the following command:
 
