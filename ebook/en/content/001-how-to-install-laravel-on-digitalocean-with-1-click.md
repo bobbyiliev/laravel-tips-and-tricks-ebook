@@ -1,8 +1,8 @@
 # How to Install Laravel on DigitalOcean with 1-Click?
 
-[Laravel](https://laravel.com) is an amazing PHP framework that makes working with PHP great. 
+[Laravel](https://laravel.com) is an amazing PHP framework that makes working with PHP great.
 
-As of the time of writing this tutorial, Laravel has more than 105 million installs according to [Packagis](https://packagist.org/packages/laravel/laravel), so as you can imagine there are multiple ways of **installing Laravel on DigitalOcean** or any other cloud provider.
+As of the time of writing this tutorial, Laravel has more than 105 million installs according to [Packagist](https://packagist.org/packages/laravel/laravel), so as you can imagine there are multiple ways of **installing Laravel on DigitalOcean** or any other cloud provider.
 
 In this tutorial, we will go through a few ways of installing Laravel and also show you how to do this with just 1-Click on DigitalOcean!
 
@@ -78,11 +78,11 @@ Application key set successfully.
 Then you will be asked if you want to secure your Laravel installation with an SSL certificate:
 
 ```
-Next, you have the option of configuring LetsEncrypt to secure your new site.  
-Before doing this, be sure that you have pointed your domain or subdomain to this server's IP address.  
+Next, you have the option of configuring LetsEncrypt to secure your new site.
+Before doing this, be sure that you have pointed your domain or subdomain to this server's IP address.
 You can also run LetsEncrypt certbot later with the command 'certbot --nginx'
 
-Would you like to use LetsEncrypt (certbot) 
+Would you like to use LetsEncrypt (certbot)
 to configure SSL(https) for your new site? (y/n):
 ```
 

@@ -22,7 +22,7 @@ Jetstream gives you a better starting point for your new projects. It includes t
 * Session management
 * API support via Laravel Sanctum
 
-Laravel Jetstream replaces the legacy Laravel authentication UI available for previous Laravel versions. 
+Laravel Jetstream replaces the legacy Laravel authentication UI available for previous Laravel versions.
 
 Jetstream uses Tailwind CSS, and you can choose between Livewire or Inertia.
 
@@ -54,7 +54,7 @@ If you prefer using composer, you need to run the following command inside your 
 composer require laravel/jetstream
 ```
 
-> Note: you need to have Larave 8 installed. Otherwise, the above command will fail.
+> Note: you need to have Laravel 8 installed. Otherwise, the above command will fail.
 
 After that, you would need to run `artisan jetstream:install` and specify the stack that you want to use:
 
@@ -195,7 +195,7 @@ resources/js/Pages/Profile/
 
 ## Jetstream API
 
-Laravel Jetstream uses [Laravel Sanctum](https://laravel.com/docs/sanctum) to provide simple token-based API. 
+Laravel Jetstream uses [Laravel Sanctum](https://laravel.com/docs/sanctum) to provide simple token-based API.
 
 With Sanctum, each user can generate API tokens with specific permissions like Create, Read, Update, and Delete.
 
@@ -211,7 +211,7 @@ Again you can disable API support in your `config/jetstream.php` config file.
 
 If you used the `--team` flag during your Jetstream installation, your website would support team creation and management.
 
-With the Jetstream teams feature, each user can create and belong to multiple different teams. 
+With the Jetstream teams feature, each user can create and belong to multiple different teams.
 
 For more information about Jetstream teams, you can take a look a the official documentation [here](https://jetstream.laravel.com/1.x/features/teams.html).
 

@@ -2,9 +2,9 @@
 
 Laravel Livewire was created by Caleb Porzio that allows you to add reactivity to your Laravel applications.
 
-If you are not familiar with Laravel Livewire, I would recommend reading this [introduction to Livewire tutorial](https://devdojo.com/tnylea/what-is-livewire) first. 
+If you are not familiar with Laravel Livewire, I would recommend reading this [introduction to Livewire tutorial](https://devdojo.com/tnylea/what-is-livewire) first.
 
-In this tutorial, I will show you how to add a contact form to your Larave Livewire project!
+In this tutorial, I will show you how to add a contact form to your Laravel Livewire project!
 
 To get started, all that you need is a Laravel application.
 
