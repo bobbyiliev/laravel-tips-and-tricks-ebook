@@ -26,7 +26,7 @@ To download a copy of the ebook use one of the following links:
 
 ## 📘 Chapters
 
-* **About the book**
+* **[About the book](ebook/en/content/000-introduction.md)**
 * **[How to Install Laravel on DigitalOcean with 1-Click](https://devdojo.com/bobbyiliev/how-to-install-laravel-on-digitalocean-with-1-click)**
 * **[How to get a free domain name for your Laravel project](https://devdojo.com/bobbyiliev/how-to-get-a-free-domain-name-for-your-laravel-project)**
 * **[8 Awesome VS Code Extensions for Laravel Developers](https://devdojo.com/bobbyiliev/8-awesome-vs-code-extensions-for-laravel-developers)**
@@ -80,7 +80,7 @@ To download a copy of the ebook use one of the following links:
 * **[How to check your exact Laravel version?](https://devdojo.com/bobbyiliev/how-to-check-your-exact-laravel-version)**
 * **[Contact Form with Voyager and Laravel](https://devdojo.com/bobbyiliev/contact-form-with-voyager-and-laravel)**
 * **[Scaling Laravel App with Multiple Databases](https://devdojo.com/bobbyiliev/scaling-laravel-app-with-multiple-databases)**
-* **Conclusion**
+* **[Conclusion](ebook/en/content/999-conclusion.md)**
 
 ## 🌟 Sponsors
 
